@@ -30,5 +30,5 @@ Awards
   - 软件安全赛道第二名
 - [**腾讯游戏安全技术竞赛**](https://gslab.qq.com/html/competition/2023/race-final-result.htm)
   - 机器学习方向第三名
-- CVE-2023-38673
-  - 百度致谢 https://github.com/PaddlePaddle/Paddle/blob/develop/security/advisory/pdsa-2023-005.md
+- [**CVE-2023-38673 百度致谢**] (https://github.com/PaddlePaddle/Paddle/blob/develop/security/advisory/pdsa-2023-005.md)
+
