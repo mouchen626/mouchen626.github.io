@@ -14,6 +14,8 @@ I am currently pursuing a Master's degree at Huazhong University of Science and 
 
 Publications
 ------
+1. [In Submission] Detecting Malicious NPM Packages With the aid of LLM (name changed for anonymity)
+Anonymous authors
 1. **[ICSE'23]** **Detecting JVM JIT Compiler Bugs via Exploring Two-Dimensional Input Spaces**. <br>Haoxiang Jia, Ming Wen, Zifan Xie, **Xiaochen Guo**, Rongxin Wu, Maolin Sun, Kang Chen, and Hai Jin. <br> *In the International Conference on Software Engineering, 2023*, [CCF A].
 1. **[ISSTA’23]** **Precise and Efficient Patch Presence Test for Android Applications against Code Obfuscation**. <br>Zifan Xie, Ming Wen, Haoxiang Jia, **Xiaochen Guo**, Xiaotong Huang, Deqing Zou, and Hai Jin. <br>*In ACM SIGSOFT International Symposium on Software Testing and Analysis, 2023*, [CCF A]. 
 
