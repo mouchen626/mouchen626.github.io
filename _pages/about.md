@@ -17,6 +17,10 @@ Publications
 1. **[ICSE'23]** **Detecting JVM JIT Compiler Bugs via Exploring Two-Dimensional Input Spaces**. <br>Haoxiang Jia, Ming Wen, Zifan Xie, **Xiaochen Guo**, Rongxin Wu, Maolin Sun, Kang Chen, and Hai Jin. <br> *In the International Conference on Software Engineering, 2023*, [CCF A].
 1. **[ISSTA’23]** **Precise and Efficient Patch Presence Test for Android Applications against Code Obfuscation**. <br>Zifan Xie, Ming Wen, Haoxiang Jia, **Xiaochen Guo**, Xiaotong Huang, Deqing Zou, and Hai Jin. <br>*In ACM SIGSOFT International Symposium on Software Testing and Analysis, 2023*, [CCF A]. 
 
+Patents
+---
+1. 一种抗混淆的漏洞补丁存在性检测方法、系统及存储介质. 发明专利, 2023
+
 Awards
 ------
 - 湖北省大学生数学竞赛一等奖
@@ -26,3 +30,5 @@ Awards
   - 软件安全赛道第二名
 - [**腾讯游戏安全技术竞赛**](https://gslab.qq.com/html/competition/2023/race-final-result.htm)
   - 机器学习方向第三名
+- CVE-2023-38673
+  - 百度致谢 https://github.com/PaddlePaddle/Paddle/blob/develop/security/advisory/pdsa-2023-005.md
